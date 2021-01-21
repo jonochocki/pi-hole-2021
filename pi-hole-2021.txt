@@ -1,0 +1,32 @@
+# Universal
+# This is the best compiled list I've found in 2021. List contains Malware, trackers, SOME YouTube ads, and crypto-loot domains.
+https://www.sunshine.it/blacklist.txt
+
+# Known Fraud Domains
+https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
+
+# Known Scam Domains
+https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+
+# Known Phishing Domains
+https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
+
+
+
+
+
+
+# App Specific
+# Social Media, Mobile Apps, Smart Home Devices, etc.
+
+#YouTube
+https://blocklistproject.github.io/Lists/youtube.txt
+
+# Facebook
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Facebook/facebookblocklist.txt
+
+#Smart TV(s)
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt
+
+# TikTok
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
