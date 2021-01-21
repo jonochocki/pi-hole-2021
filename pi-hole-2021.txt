@@ -11,6 +11,10 @@ https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
 # Known Phishing Domains
 https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
 
+# Known Tracking Domains
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt
+
+
 
 
 
@@ -18,6 +22,10 @@ https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
 
 # App Specific
 # Social Media, Mobile Apps, Smart Home Devices, etc.
+
+
+# General MISC App Ads
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt
 
 #YouTube
 https://blocklistproject.github.io/Lists/youtube.txt
